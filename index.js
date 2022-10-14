@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 var con;
 var connection;
-module.exports = class dbman {
+module.exports = class sqlman {
     constructor(data){
         try {
             connection = mysql.createConnection(data);
