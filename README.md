@@ -2,7 +2,7 @@
 
 removes mysql boilerplate & makes queries easier!
 
-##usage
+## usage
 
 ```js
 const sqlman = require('sql-manager');
