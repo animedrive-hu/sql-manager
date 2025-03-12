@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/animedrive-hu/sql-manager#readme",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "mysql2": "^3.6.0",
+    "sqlite3": "^5.1.6"
   }
 }
